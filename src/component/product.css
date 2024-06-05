@@ -1,0 +1,24 @@
+.container {
+    
+    margin: 5%;
+    border-radius: 5%;
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+.lab{
+    display: flex;
+    align-items: center;
+}
+.qnumber{
+    font-size: 20px;
+    margin-top: 4px;
+}
+.st{
+    justify-content: space-between;
+}
+.line{
+    display: flex;
+    justify-content: end;
+}
